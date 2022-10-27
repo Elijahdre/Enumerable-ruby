@@ -1,10 +1,6 @@
-# curriculum-morse-code
+# Enumerable
 
 MyList class with our implementation of Enumerables.
-
-## Description
-
-This application is used for decoding morse messages.
 
 ## Authors
 
